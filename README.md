@@ -1,0 +1,1 @@
+# QtSingleApplication.py
