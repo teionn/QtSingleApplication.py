@@ -15,7 +15,7 @@ QtSingleApplicationクラスを使用するには、アプリケーションを�
   - https://stackoverflow.com/a/12712362
   - https://stackoverflow.com/a/25970104
 
-##### 以下のパケージを試用できる状態にしてください。
+##### 以下のパケージを使用できる状態にしてください。
 - [**Qt.py**](https://github.com/mottosso/Qt.py)
   - https://github.com/mottosso/Qt.py
 
